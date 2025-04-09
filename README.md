@@ -43,5 +43,4 @@ Center, light blue, navy, styled input/buttons.
 ![Alt text](Desktop/game-screenshot.jpg?raw=true "my plan")
 
 ## Screenshot
-
-![Number Guessing Game](Desktop/game-screenshot.jpg)
+![Number Guessing Game](Desktop/game-screenshot.jpg?raw=true "Number Guessing Game")
