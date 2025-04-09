@@ -36,3 +36,9 @@ Title, input, buttons, result.
 CSS
 
 Center, light blue, navy, styled input/buttons.
+
+
+## site is live at https://thaistrok.github.io/NGM-Number-Guessing-Game/
+
+## Screenshot
+![Number Guessing Game](Desktop/game-screenshot.jpg)
