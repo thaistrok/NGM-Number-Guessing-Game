@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guessing Game</title>
+  <script defer src="./js/app.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h1>Number-Guessing-Game</h1>
+  <p>Guess a number between 1 and 20:</p>
+  <input type="number" id="guessInput" onkeydown="if (event.keyCode == 13) checkGuess()">
+  
+  <p id="resultMessage"></p>
+
+  <button id="restartButton" onclick="restartGame()">Restart Game</button>
+    
+  
+</body>
+</html>
