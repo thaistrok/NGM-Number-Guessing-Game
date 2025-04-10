@@ -41,9 +41,8 @@ Center, light blue, navy, styled input/buttons.
 ## site is live at https://thaistrok.github.io/NGM-Number-Guessing-Game/
 
 
+## alt text
+https://github.com/thaistrok/NGM-Number-Guessing-Game/blob/5190161ea65b8d09f23024f72491077d4fec7992/game-screenshot.jpg
 
-
-#### Screenshot
-![Number Guessing Game] https://github.com/thaistrok/NGM-Number-Guessing-Game/blob/f04bddc21538a2628e95c42cb8b6cd8abd3cddc4/game-screenshot.jpg
 
 
