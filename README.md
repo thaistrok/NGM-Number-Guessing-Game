@@ -42,7 +42,7 @@ Center, light blue, navy, styled input/buttons.
 
 
 ## alt text
-https://github.com/thaistrok/NGM-Number-Guessing-Game/blob/5190161ea65b8d09f23024f72491077d4fec7992/game-screenshot.jpg
+![screenshot](./game-screenshot.jpg)
 
 
 
